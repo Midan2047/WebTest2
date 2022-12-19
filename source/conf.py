@@ -58,7 +58,7 @@ latex_elements = {
 }
 latex_documents = [
     (master_doc, 'Sphinx-Tutorial.tex', 'Sphinx-Tutorial Documentation',
-     'Sooftware', 'manual'),
+     'Software', 'manual'),
 ]
 man_pages = [
     (master_doc, 'sphinx-tutorial', 'Sphinx-Tutorial Documentation',

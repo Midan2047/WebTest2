@@ -13,8 +13,6 @@ Welcome to Sphinx-Tutorial's documentation!
 
 
 Tutorial
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+
